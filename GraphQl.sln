@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{47522FCB-06CF-42F0-9CF9-E5EF4F48AF8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{5F9468A5-18CE-4B75-9DF4-A5913BE4CBEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQl", "GraphQl\GraphQl\GraphQl.csproj", "{56AEB59E-FC79-414E-9DE8-27FD4067738B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47522FCB-06CF-42F0-9CF9-E5EF4F48AF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47522FCB-06CF-42F0-9CF9-E5EF4F48AF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47522FCB-06CF-42F0-9CF9-E5EF4F48AF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47522FCB-06CF-42F0-9CF9-E5EF4F48AF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F9468A5-18CE-4B75-9DF4-A5913BE4CBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9468A5-18CE-4B75-9DF4-A5913BE4CBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9468A5-18CE-4B75-9DF4-A5913BE4CBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9468A5-18CE-4B75-9DF4-A5913BE4CBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AEB59E-FC79-414E-9DE8-27FD4067738B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AEB59E-FC79-414E-9DE8-27FD4067738B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AEB59E-FC79-414E-9DE8-27FD4067738B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AEB59E-FC79-414E-9DE8-27FD4067738B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
